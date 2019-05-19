@@ -12,6 +12,7 @@ def loop_iterator(number_of_times)
   loop do
     integer += 1  
     puts #{phrase}
+    if integer 
   break
   end
 end
