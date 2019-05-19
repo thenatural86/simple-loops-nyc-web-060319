@@ -12,6 +12,7 @@ def loop_iterator(number_of_times)
   loop do
     puts #{phrase}
   break
+  end
 end
 
 def times_iterator(number_of_times)
